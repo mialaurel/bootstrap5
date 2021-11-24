@@ -31,6 +31,12 @@
     margin-top: 5rem;
 }
 
+.marketing h3 {
+    font-size: 3rem;
+    margin-bottom: 7rem;
+    margin-top: 5rem;
+}
+
 .float-right {
-    float: right;
+    float: right ;
 }
